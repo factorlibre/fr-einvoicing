@@ -1,2 +1,3 @@
 from . import test_partner_check_siren_siret_vat
+from . import test_neutralize
 from . import test_account_move_directory_line_copy
